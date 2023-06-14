@@ -2,3 +2,5 @@ C:\Users\КИПС211Залипаев\Downloads\area_test222-master\lr3\bin\Debug
 C:\Users\КИПС211Залипаев\Downloads\area_test222-master\lr3\bin\Debug\lr3.pdb
 C:\Users\КИПС211Залипаев\Downloads\area_test222-master\lr3\obj\Debug\lr3.exe
 C:\Users\КИПС211Залипаев\Downloads\area_test222-master\lr3\obj\Debug\lr3.pdb
+C:\Users\КИПС211Кондрашов.KTI.000\Downloads\area_test222-master\lr3\obj\Debug\lr3.exe
+C:\Users\КИПС211Кондрашов.KTI.000\Downloads\area_test222-master\lr3\obj\Debug\lr3.pdb
